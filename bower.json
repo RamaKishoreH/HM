@@ -1,0 +1,24 @@
+{
+  "name": "bower HM",
+  "description": ".git in hotmailid",
+  "main": "index.js",
+  "authors": [
+    "Rama Kishore <rama.kishore@gmail.com> (http://www.dummytest.io)"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "hm"
+  ],
+  "homepage": "https://github.com/RamaKishoreH/HM",
+  "moduleType": [
+    "amd"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

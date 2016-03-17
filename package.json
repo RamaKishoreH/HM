@@ -1,0 +1,29 @@
+{
+  "name": "hm",
+  "version": "1.0.0",
+  "description": ".git in hotmailid",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RamaKishoreH/HM.git"
+  },
+  "keywords": [
+    "hm"
+  ],
+  "author": "Rama Kishore <rama.kishore@gmail.com> (http://www.dummytest.io)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RamaKishoreH/HM/issues"
+  },
+  "homepage": "https://github.com/RamaKishoreH/HM#readme",
+  "dependencies": {
+    "bower": "^1.7.7",
+    "cookie-session": "^1.2.0",
+    "ejs": "^2.4.1",
+    "express": "^4.13.4",
+    "express-session": "^1.13.0"
+  }
+}
