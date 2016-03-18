@@ -22,10 +22,14 @@
   "dependencies": {
     "body-parser": "^1.15.0",
     "bower": "^1.7.7",
+    "browserify": "^13.0.0",
+    "browsify": "0.0.4",
     "cookie-session": "^1.2.0",
     "ejs": "^2.4.1",
     "express": "^4.13.4",
     "express-session": "^1.13.0",
-    "requirejs": "^2.1.22"
+    "q": "^1.4.1",
+    "requirejs": "^2.1.22",
+    "uniq": "^1.0.1"
   }
 }
